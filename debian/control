@@ -1,0 +1,14 @@
+Source: mixxx-themes-huayra
+Section: system
+Priority: extra
+Maintainer: Julia Palandri <julia.palandri@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: http://huayra.conectarigualdad.gob.ar
+
+Package: mixxx-themes-huayra
+Architecture: all
+Depends: ${misc:Depends}, debianutils (>= 4.3.2),
+Description: Temas de mixxx adaptados para Huayra
+ Este paquete contiene temas para el programa mixxx pensados específicamente para Huayra.
+
