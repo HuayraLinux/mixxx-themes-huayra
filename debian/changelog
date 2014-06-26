@@ -1,3 +1,9 @@
+mixxx-themes-huayra (0.3) unstable; urgency=medium
+
+  * correccion de fondo en 1024
+
+ -- Fernando Toledo <ragnarok@docksud.com.ar>  Thu, 26 Jun 2014 10:39:10 -0300
+
 mixxx-themes-huayra (0.2) unstable; urgency=medium
 
   * Nuevo tema de Mixxx para resolucion 1366x768.
